@@ -76,6 +76,7 @@ nav {
     border-bottom-right-radius: 1rem;
     padding: 0.5rem 2rem;
     font-size: 1rem;
+    cursor: pointer;
 }
 
 #search-button {
